@@ -35,6 +35,34 @@
   <img src="https://img.shields.io/badge/────────────────────────────────────────────────────────░░░░░░░-green?style=for-the-badge" width="100%"/>
 </p>
 
+## 🛡️ [02] OPERATIONAL_LOAD // SYSTEM_INTELLIGENCE
+
+<p align="left">
+┌── <b>[01] LOW_LEVEL_ARCHITECTURE</b> ───────────────────┐ <br>
+│ <b>LANGUAGE:</b> C/C++ // HARDWARE_INTERACTION       │ <br>
+│ <b>LOAD:</b> [ ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ ] 100%   │ <br>
+└──────────────────────────────────── <b>[ STATUS: STABLE ]</b> ┘ <br>
+<br>
+┌── <b>[02] NEURAL_AUTOMATION_CORE</b> ───────────────────┐ <br>
+│ <b>LANGUAGE:</b> PYTHON // AI_ENGINEERING              │ <br>
+│ <b>LOAD:</b> [ ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ ] 100%   │ <br>
+└──────────────────────────────────── <b>[ STATUS: ACTIVE ]</b> ┘ <br>
+<br>
+┌── <b>[03] FULL_STACK_INFRASTRUCTURE</b> ────────────────┐ <br>
+│ <b>STACK:</b> JS/TS // NEXT.JS // NODE.JS            │ <br>
+│ <b>LOAD:</b> [ ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■░░░ ] 92%    │ <br>
+└──────────────────────────────────── <b>[ STATUS: SYNCED ]</b> ┘ <br>
+<br>
+┌── <b>[04] OFFENSIVE_CYBER_SECURITY</b> ────────────────┐ <br>
+│ <b>ROLE:</b> PEN-TESTING // BREACH_SIMULATION        │ <br>
+│ <b>LOAD:</b> [ ■■■■■■■■■■■■■■■■■■■■■■■■■■░░░░░░░ ] 85%    │ <br>
+└──────────────────────────────────── <b>[ STATUS: SECURE ]</b> ┘ <br>
+<br>
+┌── <b>[05] CLOUD_ORCHESTRATION_LOAD</b> ────────────────┐ <br>
+│ <b>TECH:</b> DOCKER // AWS // DEVOPS                 │ <br>
+│ <b>LOAD:</b> [ ■■■■■■■■■■■■■■■■■■■■■░░░░░░░░░░░ ] 70%    │ <br>
+└────────────────────────────────── <b>[ STATUS: DEPLOYED ]</b> ┘
+</p>
 ---
 
 ## 🛠️ [03] TECHNICAL ARMORY: THE FULL STACK
