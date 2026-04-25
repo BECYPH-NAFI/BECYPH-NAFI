@@ -7,6 +7,33 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=500&color=00FF00&center=true&vCenter=true&width=1200&lines=CORE+SYSTEM+INITIATED...;IDENTITY:+CYPH-NAFI;MASTERING+C+++ARCHITECTURES;ADVANCED+PYTHON+AUTOMATION;FULL-STACK+SECURITY+ENGINEERING;ZERO+FAILURE+PROTOCOL+ACTIVE" alt="Typing SVG" />
 
 ---
+## 🛡️ [02] OPERATIONAL_LOAD // CORE_COMPETENCIES
+
+<p align="left">
+  <code><b>[01] SYSTEM_ARCHITECTURE (C++)</b></code> <br>
+  <code><b>PROGRESS:</b> 💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠 100%</code> <br>
+  <img src="https://img.shields.io/badge/-MAX_PERFORMANCE-red?style=flat-square" />
+  <br><br>
+
+  <code><b>[02] NEURAL_AUTOMATION (PYTHON)</b></code> <br>
+  <code><b>PROGRESS:</b> 💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠 100%</code> <br>
+  <img src="https://img.shields.io/badge/-AI_CORE_ACTIVE-green?style=flat-square" />
+  <br><br>
+
+  <code><b>[03] WEB_INFRASTRUCTURE (JS/TS)</b></code> <br>
+  <code><b>PROGRESS:</b> 💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠░░ 92%</code> <br>
+  <img src="https://img.shields.io/badge/-SYNC_STABLE-white?style=flat-square" />
+  <br><br>
+
+  <code><b>[04] CYBER_SECURITY (PEN-TEST)</b></code> <br>
+  <code><b>PROGRESS:</b> 💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠░░░░ 85%</code> <br>
+  <img src="https://img.shields.io/badge/-THREAT_LEVEL_HIGH-red?style=flat-square" />
+  <br><br>
+
+  <code><b>[05] CLOUD_ORCHESTRATION (OPS)</b></code> <br>
+  <code><b>PROGRESS:</b> 💠💠💠💠💠💠💠💠💠💠💠💠░░░░░░░░░░ 70%</code> <br>
+  <img src="https://img.shields.io/badge/-NODES_DEPLOYED-green?style=flat-square" />
+</p>
 
 ## ⚡ [01] BIOLOGICAL & SYSTEM DATA
 > **SUBJECT ID:** CYPH-NAFI  
